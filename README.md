@@ -23,29 +23,22 @@
 - Quality Assunrance (QA) [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino/) | [Daniela Cardoso](https://www.linkedin.com/in/daniela-cardoso-da-silva-b25587234/?trk=contact-info)
 
 #### Repositórios 
-- [Produto](https://github.com/PetJournal/petjournal.product)
-- [Agile](https://github.com/PetJournal/petjournal.agile)
-- [Backend](https://github.com/PetJournal/petjournal.api)
-- [Frontend](https://github.com/PetJournal/petjournal.api)
-- [Android](https://github.com/PetJournal/petjournal.android)
-- [IOS](https://github.com/PetJournal/petjournal.ios)
-
-<a href="https://github.com/PetJournal/petjournal.product">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.product&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="petjournal.product" />
-</a>
-<a href="https://github.com/PetJournal/petjournal.agile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.agile&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="petjournal.agile" />
-</a>
 <a href="https://github.com/PetJournal/petjournal.api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="petjournal.api" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.api&theme=buefy" />
 </a>
 <a href="https://github.com/PetJournal/petjournal.web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="petjournal.web" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.web&theme=buefy" />
 </a>
 <a href="https://github.com/PetJournal/petjournal.android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.android&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="petjournal.android" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.android&theme=buefy" />
 </a>
 <a href="https://github.com/PetJournal/petjournal.ios">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.ios&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="petjournal.ios" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.ios&theme=buefy" />
+</a>
+<a href="https://github.com/PetJournal/petjournal.product">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.product&theme=buefy" />
+</a>
+<a href="https://github.com/PetJournal/petjournal.agile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.agile&theme=buefy" />
 </a>
 
