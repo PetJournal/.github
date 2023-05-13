@@ -13,7 +13,7 @@
 - Founder [Danrley Pires](https://www.linkedin.com/in/dansenpir/)
 - Mentor [Danrley Pires](https://www.linkedin.com/in/dansenpir/) | [Nelson Junior](https://www.linkedin.com/in/juniormargalho/)
 - Product Mannager [Mariana de Brito](https://www.linkedin.com/in/mari-brito/) | [Tamires Akemi](https://www.linkedin.com/in/tamireskojima/)
-- Scrum Master [Andressa Quintanilha](http://www.linkedin.com/in/andressa-quintanilha) | [Letícia Tavares](https://www.linkedin.com/in/leticiatrandrade/)
+- Scrum Master [Letícia Tavares](https://www.linkedin.com/in/leticiatrandrade/)
 - UX/UI [Cleverson Antonietti](https://www.linkedin.com/in/cleversonantonietti/) | [Diego Victor Martiliano](https://www.linkedin.com/in/diegovictormartiliano/) | [Leonardo da Silva](http://linkedin.com/in/leonardo-m-silva/) 
 - Desenvolvimento 
    - Backend [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/) | [Samuel Silva](https://www.linkedin.com/in/samuel-silva-2a4893217/)
