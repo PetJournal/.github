@@ -5,9 +5,8 @@
 
 
 ## Sumário: 
- - [Repositórios](#repositorios)
  - [Membros](#membros)
-
+ - [Repositorios](#repositorios)
 
 ## Membros
 - Founder [Danrley Pires](https://www.linkedin.com/in/dansenpir/)
@@ -25,7 +24,7 @@
    - IOS [Marcylene Souza](https://www.linkedin.com/in/marcylene-barreto/) | [Nikolas Gianoglou](https://www.linkedin.com/in/nikolascoelho?trk=contact-info)
 - Quality Assunrance (QA) [Franciele Zwirtes](https://www.linkedin.com/in/francielezwirtes/) | [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino/) | [Paula Suyane Bomfim](https://www.linkedin.com/in/paula-suyane-68a465179/)
 
-## Repositórios 
+## Repositorios
 <a href="https://github.com/PetJournal/petjournal.api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetJournal&repo=petjournal.api&theme=buefy" />
 </a>
