@@ -14,15 +14,17 @@
 - Mentor  
   - IOS - [Nelson Junior](https://www.linkedin.com/in/juniormargalho/) 
   - Frontend - [Guilherme de Medeiros](https://www.linkedin.com/in/guilhermedemedeiros/)
-  - Android - [Anthoni Ipiranga](https://github.com/AnthoniIP)  
+  - Android - [Anthoni Ipiranga](https://github.com/AnthoniIP)
+  - Backend - [Mateus Vinícius de Lima](https://www.linkedin.com/in/mateus-vinicius-lima/)
+  - UX/UI -  [Anne Caroline Silva](https://www.linkedin.com/in/annecpereira/)
 - Product Manager [Mariana de Brito](https://www.linkedin.com/in/mari-brito/) | [Tamires Akemi](https://www.linkedin.com/in/tamireskojima/)
 - Scrum Master [Letícia Tavares](https://www.linkedin.com/in/leticiatrandrade/) 
-- UX/UI [Anne Caroline Silva](https://www.linkedin.com/in/annecpereira/) | [Diego Victor Martiliano](https://www.linkedin.com/in/diegovictormartiliano/)
+- UX/UI  [Andreyna Aguiar](https://www.linkedin.com/in/linkdaandreyna/) | [Diego Victor Martiliano](https://www.linkedin.com/in/diegovictormartiliano/)
 - Desenvolvimento 
    - Backend [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/) | [Samuel Silva](https://www.linkedin.com/in/samuel-silva-2a4893217/)
    - Frontend [Breno Moreira](https://www.linkedin.com/in/brenomorp/) | [Christian Leonardo](https://www.linkedin.com/in/christianlsb) | [Dayane Carolina Vieira](https://www.linkedin.com/in/dayanecarolina/) | [Priscilla Braun Trevizan](https://www.linkedin.com/in/priscillatrevizan/)
    - Android [Gelson de Souza](https://www.linkedin.com/in/gelsonsouza) | [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vitor Hilario](https://github.com/ovitorhilario) | [Lucas Simão](https://github.com/LucasOliveiraSimao) 
-   - IOS [Marcylene Souza](https://www.linkedin.com/in/marcylene-barreto/) | [Nikolas Gianoglou](https://www.linkedin.com/in/nikolascoelho?trk=contact-info)
+   - IOS [Marcylene Souza](https://www.linkedin.com/in/marcylene-barreto/) | [Ana Júlia Brito](https://www.linkedin.com/in/ana-julia-brito-de-souza/)
 - Quality Assunrance (QA) [Franciele Zwirtes](https://www.linkedin.com/in/francielezwirtes/) | [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino/) | [Paula Suyane Bomfim](https://www.linkedin.com/in/paula-suyane-68a465179/)
 
 ## Repositorios
