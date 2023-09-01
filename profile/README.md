@@ -16,13 +16,13 @@
   - Frontend - [Guilherme de Medeiros](https://www.linkedin.com/in/guilhermedemedeiros/)
   - Android - [Anthoni Ipiranga](https://github.com/AnthoniIP)
   - Backend - [Mateus Vinícius de Lima](https://www.linkedin.com/in/mateus-vinicius-lima/)
-  - QA - [Mateus Neres](https://www.linkedin.com/in/mateusneres/)
+  - QA -
 - Product Manager [Mariana de Brito](https://www.linkedin.com/in/mari-brito/) 
 - Scrum Master [Dalva Vieira](https://www.linkedin.com/in/dalvavieira/) | [Letícia Tavares](https://www.linkedin.com/in/leticiatrandrade/) 
 - UX/UI  [Andreyna Aguiar](https://www.linkedin.com/in/linkdaandreyna/) | [Diego Victor Martiliano](https://www.linkedin.com/in/diegovictormartiliano/)
 - Desenvolvimento 
-   - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/) | [Samuel Silva](https://www.linkedin.com/in/samuel-silva-2a4893217/) 
-   - Frontend [Breno Moreira](https://www.linkedin.com/in/brenomorp/) | [Gabriel Souza](https://www.linkedin.com/in/gabriel-souza-14a836227/) | [Jefferson Santos](https://www.linkedin.com/in/Jeeffsantoos) | [Priscilla Braun Trevizan](https://www.linkedin.com/in/priscillatrevizan/)
+   - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/)
+   - Frontend [Breno Moreira](https://www.linkedin.com/in/brenomorp/) | [Jefferson Santos](https://www.linkedin.com/in/Jeeffsantoos) | [Priscilla Braun Trevizan](https://www.linkedin.com/in/priscillatrevizan/)
    - Android [Gelson de Souza](https://www.linkedin.com/in/gelsonsouza) | [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vitor Hilario](https://github.com/ovitorhilario) | [Lucas Simão](https://github.com/LucasOliveiraSimao) 
    - IOS [Ana Júlia Brito](https://www.linkedin.com/in/ana-julia-brito-de-souza/) | [Marcylene Souza](https://www.linkedin.com/in/marcylene-barreto/) 
 - Quality Assunrance (QA) [Franciele Zwirtes](https://www.linkedin.com/in/francielezwirtes/) | [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino/) 
