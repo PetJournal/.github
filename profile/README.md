@@ -25,4 +25,4 @@
    - Frontend [Breno Moreira](https://www.linkedin.com/in/brenomorp/) | [Jefferson Santos](https://www.linkedin.com/in/Jeeffsantoos) | [Priscilla Braun Trevizan](https://www.linkedin.com/in/priscillatrevizan/)
    - Android [Gelson de Souza](https://www.linkedin.com/in/gelsonsouza) | [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vitor Hilario](https://github.com/ovitorhilario) | [Lucas Simão](https://github.com/LucasOliveiraSimao) 
    - IOS [Ana Júlia Brito](https://www.linkedin.com/in/ana-julia-brito-de-souza/) | [Marcylene Souza](https://www.linkedin.com/in/marcylene-barreto/) 
-- Quality Assunrance (QA) [Franciele Zwirtes](https://www.linkedin.com/in/francielezwirtes/) | [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino/) 
+- Quality Assunrance (QA) [Franciele Zwirtes](https://www.linkedin.com/in/francielezwirtes/) | [Mariana Galindo](https://www.linkedin.com/in/mariana-galindo-soares/) [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino/) 
