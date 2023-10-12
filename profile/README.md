@@ -1,7 +1,7 @@
 # PetJournal 
 ![Details web](logo-petjournal.png)
 
-<p align="center">Desenvolvimento de um produto para registro de informações referentes aos nossos pets. Registrando informações relevantes como datas de vacinas, datas em que foi aplicado vermífugo com detalhes, histórico de compras de ração, integração com Google Agenda, etc.</p>
+<p align="center">A PetJournal surgiu como um projeto interno da SouJunior Labs com o objetivo de impulsionar nosso crescimento profissional por meio da criação de um produto. Estamos focados no desenvolvimento de uma solução para o registro de dados essenciais sobre nossos animais de estimação. Essas informações incluem datas de vacinação, detalhes sobre a administração de vermífugos, histórico de compras de ração, integração com a Google Agenda, entre outras funcionalidades relevantes. Estamos empolgados com o progresso deste projeto e as oportunidades de aprendizado e aprimoramento que ele oferece para nossa equipe.</p>
 
 
 ## Sumário: 
