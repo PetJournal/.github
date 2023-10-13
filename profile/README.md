@@ -14,7 +14,7 @@
 - Mentor  
   - IOS - [João Marcos](https://www.linkedin.com/in/joaomcs/) 
   - Frontend - [Guilherme de Medeiros](https://www.linkedin.com/in/guilhermedemedeiros/)
-  - Android - [Anthoni Ipiranga](https://github.com/AnthoniIP)
+  - Android - [Anthoni Ipiranga](https://github.com/ipirangad3v)
   - Backend - [Mateus Vinícius de Lima](https://www.linkedin.com/in/mateus-vinicius-lima/)
   - QA - 
 - Product Manager [Mariana Brito](https://www.linkedin.com/in/mari-brito/) | [Thais Rodrigues](https://www.linkedin.com/in/thais-rodrigues-it-management/)
