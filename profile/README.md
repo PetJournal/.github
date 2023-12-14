@@ -23,6 +23,6 @@
 - Desenvolvimento 
    - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/)
    - Frontend [Breno Moreira](https://www.linkedin.com/in/brenomorp/) |
-   - Android [Gelson de Souza](https://www.linkedin.com/in/gelsonsouza) | [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vitor Hilario](https://github.com/ovitorhilario) | [Lucas Simão](https://github.com/LucasOliveiraSimao) 
+   - Android [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Lucas Simão](https://github.com/LucasOliveiraSimao) | [Vinicius Tavares](https://github.com/N0stalgiaUltra)
    - IOS [Ana Júlia Brito](https://www.linkedin.com/in/ana-julia-brito-de-souza/) | [Giordano Mattiello](https://www.linkedin.com/in/giordano-mattiello-980363130/) | [Marcylene Souza](https://www.linkedin.com/in/marcylene-barreto/) 
 - Quality Assunrance (QA) [Franciele Zwirtes](https://www.linkedin.com/in/francielezwirtes/) | [Mariana Galindo](https://www.linkedin.com/in/mariana-galindo-soares/) [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino/) 
