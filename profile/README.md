@@ -14,7 +14,6 @@
 - Mentor  
   - IOS - [João Marcos](https://www.linkedin.com/in/joaomcs/) 
   - Frontend - [Guilherme de Medeiros](https://www.linkedin.com/in/guilhermedemedeiros/)
-  - Android - [Anthoni Ipiranga](https://github.com/ipirangad3v)
   - Backend - [Mateus Vinícius de Lima](https://www.linkedin.com/in/mateus-vinicius-lima/)
   - QA - 
 - Product Manager [Mariana Brito](https://www.linkedin.com/in/mari-brito/) | [Thais Rodrigues](https://www.linkedin.com/in/thais-rodrigues-it-management/)
@@ -23,6 +22,6 @@
 - Desenvolvimento 
    - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/)
    - Frontend [Breno Moreira](https://www.linkedin.com/in/brenomorp/) |
-   - Android [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Lucas Simão](https://github.com/LucasOliveiraSimao) | [Vinicius Tavares](https://github.com/N0stalgiaUltra)
+   - Android [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vinicius Tavares](https://github.com/N0stalgiaUltra) | [Jorge Tranin](https://www.linkedin.com/in/antonio-jorge-garcia-tranin-1566b91a2/) 
    - IOS [Ana Júlia Brito](https://www.linkedin.com/in/ana-julia-brito-de-souza/) | [Giordano Mattiello](https://www.linkedin.com/in/giordano-mattiello-980363130/) | [Marcylene Souza](https://www.linkedin.com/in/marcylene-barreto/) 
 - Quality Assunrance (QA) [Franciele Zwirtes](https://www.linkedin.com/in/francielezwirtes/) | [Mariana Galindo](https://www.linkedin.com/in/mariana-galindo-soares/) [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino/) 
