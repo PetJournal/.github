@@ -11,7 +11,7 @@
 ## Membros
 - Founder [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/)
 - Product Manager [Mariana Barros](https://www.linkedin.com/in/barrosmmoura/) | [Rafael Ferreira](https://www.linkedin.com/in/raafaferreira/)
-- Scrum Master [Bárbara Fernandes]() | [Jéssica Martins]()
+- Scrum Master [Bárbara Fernandes](www.linkedin.com.br/in/febarbarasouza) | [Jéssica Martins](https://www.linkedin.com/in/j%C3%A9ssica-maria-silva-martins-354656134/)
 - UX/UI  [Diego Victor Martiliano](https://www.linkedin.com/in/diegovictormartiliano/)
 - Desenvolvimento 
    - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/)
