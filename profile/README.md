@@ -12,7 +12,7 @@
 - Founder [Gustavo](https://www.linkedin.com/in/gusoliveira21/)
 - Product Manager [Mariana Barros](https://www.linkedin.com/in/barrosmmoura/) | [Rafael Ferreira](https://www.linkedin.com/in/raafaferreira/)
 - Scrum Master [Bárbara Fernandes](www.linkedin.com.br/in/febarbarasouza) | [Jéssica Martins](https://www.linkedin.com/in/j%C3%A9ssica-maria-silva-martins-354656134/)
-- UX/UI [Maria Cláudia]() | [Ednilson Araújo]()
+- UX/UI [Maria Cláudia]() | [Ednilson Araújo](https://www.linkedin.com/in/ednilsonaraujo/)
 - Desenvolvimento 
    - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/)
    - Frontend [Ericky Dias](https://www.linkedin.com/in/erickydias/) | [Sidney Sudatti](https://www.linkedin.com/in/sidney-sudatti/) | [Herison Pereira](https://www.linkedin.com/in/herison/)
