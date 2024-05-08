@@ -9,12 +9,13 @@
  - [Repositorios](https://github.com/orgs/PetJournal/repositories)
 
 ## Membros
-- Founder [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/)
+- Founder [Gustavo](https://www.linkedin.com/in/gusoliveira21/)
 - Product Manager [Mariana Barros](https://www.linkedin.com/in/barrosmmoura/) | [Rafael Ferreira](https://www.linkedin.com/in/raafaferreira/)
 - Scrum Master [Bárbara Fernandes](www.linkedin.com.br/in/febarbarasouza) | [Jéssica Martins](https://www.linkedin.com/in/j%C3%A9ssica-maria-silva-martins-354656134/)
-- UX/UI  [Diego Victor Martiliano](https://www.linkedin.com/in/diegovictormartiliano/)
+- UX/UI [Maria Cláudia]() | [Ednilson Araújo]()
 - Desenvolvimento 
-   - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/)
-   - Frontend [Bruna Santiago](https://www.linkedin.com/in/bruna-santiago-/)
-   - Android [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vinicius Tavares](https://github.com/N0stalgiaUltra) | [Jorge Tranin](https://www.linkedin.com/in/antonio-jorge-garcia-tranin-1566b91a2/)  
+   - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/)
+   - Frontend [Ericky Dias](https://www.linkedin.com/in/erickydias/) | [Sidney Sudatti](https://www.linkedin.com/in/sidney-sudatti/) | [Herison Pereira](https://www.linkedin.com/in/herison/)
+   - Android [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vinicius Tavares](https://www.linkedin.com/in/vinicius-santos-b217b5168/) | [Jorge Tranin](https://www.linkedin.com/in/antonio-jorge-garcia-tranin-1566b91a2/)
+   - IOS Sem membros atualmente!
 - Quality Assunrance (QA) [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino/) 
