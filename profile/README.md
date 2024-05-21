@@ -14,7 +14,7 @@
 - Scrum Master [Bárbara Fernandes](www.linkedin.com.br/in/febarbarasouza) | [Jéssica Martins](https://www.linkedin.com/in/j%C3%A9ssica-maria-silva-martins-354656134/)
 - UX/UI [Maria Cláudia](https://www.linkedin.com/in/mariaclaudiabraga/) | [Ednilson Araújo](https://www.linkedin.com/in/ednilsonaraujo/)
 - Desenvolvimento 
-   - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/)
+   - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/) | [Matheus Gondra](https://github.com/matheusgondra)
    - Frontend [Ericky Dias](https://www.linkedin.com/in/erickydias/) | [Sidney Sudatti](https://www.linkedin.com/in/sidney-sudatti/) | [Herison Pereira](https://www.linkedin.com/in/herison/)
    - Android [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vinicius Tavares](https://www.linkedin.com/in/vinicius-santos-b217b5168/) | [Jorge Tranin](https://www.linkedin.com/in/antonio-jorge-garcia-tranin-1566b91a2/)
    - IOS Sem membros atualmente!
