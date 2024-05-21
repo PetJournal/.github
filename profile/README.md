@@ -18,4 +18,4 @@
    - Frontend [Ericky Dias](https://www.linkedin.com/in/erickydias/) | [Sidney Sudatti](https://www.linkedin.com/in/sidney-sudatti/) | [Herison Pereira](https://www.linkedin.com/in/herison/)
    - Android [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vinicius Tavares](https://www.linkedin.com/in/vinicius-santos-b217b5168/) | [Jorge Tranin](https://www.linkedin.com/in/antonio-jorge-garcia-tranin-1566b91a2/)
    - IOS Sem membros atualmente!
-- Quality Assunrance (QA) [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino/) 
+- Quality Assunrance (QA) : Sem membros!
