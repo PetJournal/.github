@@ -10,7 +10,7 @@
 
 ## Membros
 - Founder [Gustavo](https://www.linkedin.com/in/gusoliveira21/)
-- Product Manager [Mariana Barros](https://www.linkedin.com/in/barrosmmoura/) | [Rafael Ferreira](https://www.linkedin.com/in/raafaferreira/)
+- Product Manager Sem membros atualmente!
 - Scrum Master  [Bárbara Fernandes](www.linkedin.com.br/in/febarbarasouza) | [Jéssica Martins](https://www.linkedin.com/in/j%C3%A9ssica-maria-silva-martins-354656134/)
 - UX/UI [Maria Cláudia](https://www.linkedin.com/in/mariaclaudiabraga/) | [Ednilson Araújo](https://www.linkedin.com/in/ednilsonaraujo/)
 - Desenvolvimento 
