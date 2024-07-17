@@ -15,7 +15,7 @@
 - UX/UI [Maria Cláudia](https://www.linkedin.com/in/mariaclaudiabraga/) | [Ednilson Araújo](https://www.linkedin.com/in/ednilsonaraujo/)
 - Desenvolvimento 
    - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/)
-   - Frontend [Ericky Dias](https://www.linkedin.com/in/erickydias/) | [Herison Pereira](https://www.linkedin.com/in/herison/) | [Diogo Caxiado](https://www.linkedin.com/in/diogocaxiado/) | [Luan Victor](https://www.linkedin.com/in/lvictordutra/)
+   - Frontend [Herison Pereira](https://www.linkedin.com/in/herison/) | [Diogo Caxiado](https://www.linkedin.com/in/diogocaxiado/) | [Luan Victor](https://www.linkedin.com/in/lvictordutra/)
    - Android [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vinicius Tavares](https://www.linkedin.com/in/vinicius-santos-b217b5168/) | [Jorge Tranin](https://www.linkedin.com/in/antonio-jorge-garcia-tranin-1566b91a2/)
    - IOS Sem membros atualmente!
 - Quality Assunrance (QA) : Sem membros!
