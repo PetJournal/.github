@@ -10,12 +10,12 @@
 
 ## Membros
 - Founder [Gustavo](https://www.linkedin.com/in/gusoliveira21/)
-- Product Manager [Maya Ferraz](www.linkedin.com/in/mayaferraz)
+- Product Manager: Sem membro no momento!
 - Scrum Master  [Bárbara Fernandes](www.linkedin.com.br/in/febarbarasouza) | [Jéssica Martins](https://www.linkedin.com/in/j%C3%A9ssica-maria-silva-martins-354656134/)
 - UX/UI [Amanda](https://www.linkedin.com/in/amanda-amorim-06b97a255/) | [Josiane](https://www.linkedin.com/in/josianecsilva95/) 
 - Desenvolvimento 
    - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/)
    - Frontend [Herison Pereira](https://www.linkedin.com/in/herison/) | [Diogo Caxiado](https://www.linkedin.com/in/diogocaxiado/) | [Luan Victor](https://www.linkedin.com/in/lvictordutra/)
    - Android [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vinicius Tavares](https://www.linkedin.com/in/vinicius-santos-b217b5168/) | [Jorge Tranin](https://www.linkedin.com/in/antonio-jorge-garcia-tranin-1566b91a2/)
-   - IOS Sem membros atualmente!
+   - IOS [Rafael Seron](https://github.com/rafaseron) | [Rafael Melo](https://www.linkedin.com/in/rafaelnmelo) | [Giovanni Favorin](https://github.com/giovannifavorin)
 - Quality Assunrance (QA) : Sem membros!
