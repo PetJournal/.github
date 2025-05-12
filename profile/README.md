@@ -14,8 +14,8 @@
 - Scrum Master: Sem membro no momento!
 - UX/UI [Nathalia]() | [Patrick]() 
 - Desenvolvimento 
-   - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Rodrigo Meneses](https://www.linkedin.com/in/rodrigofmeneses/) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/)
-   - Frontend [Herison Pereira](https://www.linkedin.com/in/herison/) | [Diogo Caxiado](https://www.linkedin.com/in/diogocaxiado/) | [Luan Victor](https://www.linkedin.com/in/lvictordutra/)
+   - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/)
+   - Frontend Sem membro no momento!
    - Android [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vinicius Tavares](https://www.linkedin.com/in/vinicius-santos-b217b5168/) | [Jorge Tranin](https://www.linkedin.com/in/antonio-jorge-garcia-tranin-1566b91a2/)
    - IOS [Rafael Seron](https://github.com/rafaseron) | [Rafael Melo](https://www.linkedin.com/in/rafaelnmelo) | [Giovanni Favorin](https://github.com/giovannifavorin)
 - Quality Assunrance (QA) : Sem membros!
