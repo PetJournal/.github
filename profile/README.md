@@ -12,10 +12,10 @@
 - Founder [Gustavo](https://www.linkedin.com/in/gusoliveira21/)
 - Product Manager: Sem membro no momento!
 - Scrum Master: Sem membro no momento!
-- UX/UI [Nathalia]() | [Patrick]() 
+- UX/UI : Sem membros!
 - Desenvolvimento 
    - Backend [Anderson Sales](https://www.linkedin.com/in/joseandersonsales/) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/)
-   - Frontend Sem membro no momento!
-   - Android [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vinicius Tavares](https://www.linkedin.com/in/vinicius-santos-b217b5168/) | [Jorge Tranin](https://www.linkedin.com/in/antonio-jorge-garcia-tranin-1566b91a2/)
-   - IOS [Rafael Seron](https://github.com/rafaseron) | [Rafael Melo](https://www.linkedin.com/in/rafaelnmelo) | [Giovanni Favorin](https://github.com/giovannifavorin)
-- Quality Assunrance (QA) : Sem membros!
+   - Frontend: Sem membro no momento!
+   - Android: [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vinicius Tavares](https://www.linkedin.com/in/vinicius-santos-b217b5168/)
+   - IOS: [Rafael Melo](https://www.linkedin.com/in/rafaelnmelo)
+- Quality Assunrance (QA): Sem membros!
