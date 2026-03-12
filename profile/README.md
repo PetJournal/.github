@@ -19,3 +19,26 @@
    - Android: [Gustavo oliveira](https://www.linkedin.com/in/gusoliveira21/) | [Vinicius Tavares](https://www.linkedin.com/in/vinicius-santos-b217b5168/)
    - IOS: [Rafael Melo](https://www.linkedin.com/in/rafaelnmelo)
 - Quality Assunrance (QA): Sem membros!
+
+## Contribuidores
+
+<a href="https://github.com/PetJournal/petjournal.qa/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PetJournal/petjournal.qa" alt="Contribuidores do petjournal.qa" />
+</a>
+
+<a href="https://github.com/PetJournal/petjournal.android/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PetJournal/petjournal.android" alt="Contribuidores do petjournal.android" />
+</a>
+
+<a href="https://github.com/PetJournal/petjournal.ios/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PetJournal/petjournal.ios" alt="Contribuidores do petjournal.ios" />
+</a>
+
+<a href="https://github.com/PetJournal/petjournal.api/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PetJournal/petjournal.api" alt="Contribuidores do petjournal.api" />
+</a>
+
+<a href="https://github.com/PetJournal/petjournal.web/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PetJournal/petjournal.web" alt="Contribuidores do petjournal.web" />
+</a>
+
